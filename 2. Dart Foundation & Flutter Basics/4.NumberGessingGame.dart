@@ -3,7 +3,7 @@ import 'dart:math';
 
 void main() {
   Random random = Random();
-  int secretNumber = random.nextInt(10) + 1; // числа от 1 до 10
+  int secretNumber = random.nextInt(10) + 1; // числа от 1 до 1с0
   int guess;
 
   print("Guess the secret number (between 1 and 10):");
