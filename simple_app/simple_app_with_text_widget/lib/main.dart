@@ -15,12 +15,11 @@ class MyApp extends StatelessWidget {
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            // Текущият текст
             Text(
               "This is a beginner-level Flutter app.",
               style: TextStyle(fontSize: 24),
             ),
-            // Стилния контейнер
+
             Container(
               height: 100,
               width: 200,
