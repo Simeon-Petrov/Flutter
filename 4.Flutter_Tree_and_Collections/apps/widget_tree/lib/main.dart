@@ -15,10 +15,7 @@ class MyApp extends StatelessWidget {
           title: const Text('Hello'),
           //centerTitle: false, // ценрира се
         ),
-        body: Center(
-          // Добавено const за по-добра производителност
-          child: Text('Flutter is awesome!'),
-        ),
+        body: Center(child: Text('Flutter is awesome!')),
       ),
     );
   }
