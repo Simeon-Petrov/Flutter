@@ -27,7 +27,7 @@ Follow these steps to get the project up and running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your_repository_url>
+    git clone [<your_repository_url>](https://github.com/Simeon-Petrov/Flutter/tree/main/Final_Exam/calendar_ap)
     cd calendar_ap
     ```
 
